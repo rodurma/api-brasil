@@ -1,8 +1,11 @@
-# api-brasil
+# API Brasil
 
 Lista de empresas brasileiras que oferecem API.
 
-## [Marketplaces](#marketplaces)
+- [marketplaces](#marketplaces)
+- [Gateway e intermediadores de pagamento](#gateway-pagamento)
+
+## Marketplaces
 
 <a name="marketplaces"></a>
 - [Amazon](https://developer.amazonservices.com/)
@@ -11,7 +14,7 @@ Lista de empresas brasileiras que oferecem API.
 - [Mercado Livre](http://developers.mercadolibre.com/)
 - [SkyHub](https://skyhub.gelato.io/)
 
-## [Gateway e intermediadores de pagamento](#gateway-pagamento)
+## Gateway e intermediadores de pagamento
 
 <a name="gateway-pagamento"></a>
 - [Pagseguro](https://dev.pagseguro.uol.com.br/)
