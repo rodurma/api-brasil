@@ -1,6 +1,6 @@
 # API Brasil
 
-Lista de empresas brasileiras que oferecem API.
+Lista de empresas brasileiras que oferecem API. Contribua para deixar essa lista o mais completa possível.
 
 - [marketplaces](#marketplaces)
 - [Gateway e intermediadores de pagamento](#gateway-pagamento)
