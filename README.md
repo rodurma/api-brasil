@@ -4,7 +4,7 @@ Lista de empresas brasileiras que oferecem API. Contribua para deixar essa lista
 
 ## Índice
 
-- [marketplaces](#marketplaces)
+- [Marketplaces](#marketplaces)
 - [Gateway e intermediadores de pagamento](#gateway-pagamento)
 
 ### Marketplaces
